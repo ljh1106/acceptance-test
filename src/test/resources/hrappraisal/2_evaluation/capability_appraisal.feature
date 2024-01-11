@@ -52,4 +52,4 @@ Feature: 역량평가 진행
 
 
 
-#  Scenario Outline: 수평 평가 시나리오
+#  Scenario Outline: 수평 평가 시나리오 - 추가 예정
